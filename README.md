@@ -8,4 +8,10 @@ q
 tab 2x
 ctrl+alt+f1;f2;...f7(noklusētais)
 valoda shell, bet dialekts bash
-visas tās komandas kaut kā varēja izsaukt!
+pwd
+sh (pāriet uz original valodu "shell")
+whoami
+who
+ls
+drwxr
+
