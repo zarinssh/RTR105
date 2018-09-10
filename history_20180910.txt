@@ -1,0 +1,21 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  chrome
+    4  chorme &
+    5  run chrome &
+    6  chrome&
+    7  chrome &
+    8  echo$0
+    9  echo $0
+   10  sh
+   11  history
+   12  whoami
+   13  who
+   14  pwd
+   15  ls
+   16  ls -l
+   17  ls -a
+   18  ls -lt
+   19  ls -la
+   20  history
+   21  history >history_20180910.txt
