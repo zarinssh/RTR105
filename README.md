@@ -14,4 +14,9 @@ whoami
 who
 ls
 drwxr
+nano (faila apraksta papildinasana)
+cd (ieiet mape)
+pwd ( kur)
+. (seit)
+ctrl x (saglabat)
 

@@ -1,0 +1,10 @@
+#!/bin/bash
+if [ $# == 1 ]
+then
+git config --global user.email zarinssh@gmail.com
+git add .
+#git commit -m "20181112_09_55"
+git commit -m $1
+git push origin master
+fi
+
