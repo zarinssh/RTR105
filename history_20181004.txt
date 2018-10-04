@@ -1,0 +1,24 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  clone https://github.com/zarinssh/RTR105
+    4  clone https://github.com/zarinsh/RTR105
+    5  git clone https://github.com/zarinssh/RTR105
+    6  ls -l
+    7  cd RTR105/
+    8  cd RTR105
+    9  pwd
+   10  history
+   11  nanop
+   12  nano
+   13  nano dialogs.py
+   14  python dialogs.py
+   15  cat dialogspy
+   16  cat dialogs.py
+   17  pythondialogs.py
+   18  pyhton dialogs.py
+   19  python dialogs.py
+   20  nano dialogs.py
+   21  python dialogs.py
+   22  nano dialogs.py
+   23  python dialogs.py
+   24  history >history_20181004.txt
